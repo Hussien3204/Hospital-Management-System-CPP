@@ -14,3 +14,4 @@ The project is strictly divided into 4 isolated layers to ensure **Separation of
 1. **Bubble Sort Algorithm**: Prioritizes the Emergency Queue by sorting patients descendingly based on condition severity (5 down to 1).
 2. **Linear Search Algorithm**: Locates patient records in memory by ID for fast retrieval, updates, and deletions, and prevents duplicate IDs.
 3. **Custom String Tokenizer**: Parses delimited text records from patients.txt back into memory structs (vector<Patient>).
+<img width="1301" height="905" alt="image" src="https://github.com/user-attachments/assets/0a83d49a-bc4d-46c5-97d4-3a587f2a6dc7" />
